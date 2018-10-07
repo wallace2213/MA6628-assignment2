@@ -6,6 +6,6 @@
 2. define a function to calculate the call option value of BSM
 3. calculate the parameters of GAC such as sigma_hat and r_hat
 4. calculate the value of GAC by BSM evaluation
-#### for detailed code and description, please refer to GAC-BSM.py
+#### for detailed code and description, please refer to https://github.com/wallace2213/MA6628-assignment2/blob/master/Geometric%20Asian%20Call%20Option%20Price%20by%20BSM.py
 #### result and output
 #### GAC price =  2.7329867250697175
